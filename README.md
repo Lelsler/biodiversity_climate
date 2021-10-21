@@ -9,4 +9,4 @@ The repository is organized using the following structure:
     data - A folder containing the raw data, the code used to process the raw data, and the data generated from the processing
     figures - A folder containing figures generated for the project
 
-This project benefited from the MEESO project (Ecologically and economically sustainable mesopelagic fisheries; Grant Agreement No. 817669) and from the MISSION ATLANTIC (Grant Agreement No. 862428) project funded by the European Union’s Horizon 2020 Research and Innovation Program.
+This project benefited from the MEESO project (Ecologically and economically sustainable mesopelagic fisheries; Grant Agreement No. 817669) and from the MISSION ATLANTIC (Grant Agreement No. 862428) project funded by the European Union’s Horizon 2020 Research and Innovation Program as well as the US National Science Foundation grant #DEB-1616821.
